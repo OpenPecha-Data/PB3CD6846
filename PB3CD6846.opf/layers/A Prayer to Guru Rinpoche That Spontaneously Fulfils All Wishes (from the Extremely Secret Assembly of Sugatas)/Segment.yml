@@ -1,0 +1,99 @@
+id: 3cba5e1de3fe44eba76203604f073a45
+annotation_type: Segment
+revision: '00001'
+annotations:
+  7747e7d9a43e4d8ab7f6d5b2ac59b39f:
+    span:
+      start: 0
+      end: 145
+    metadata: {}
+  c1b14de7e3fd4d41a0a790c8738555e3:
+    span:
+      start: 147
+      end: 472
+    metadata: {}
+  c53abe8fc2e94e3292847901c8325dd7:
+    span:
+      start: 474
+      end: 1752
+    metadata: {}
+  370d0a4ea58f41ceb3957d2af198cf43:
+    span:
+      start: 1754
+      end: 2701
+    metadata: {}
+  1d95e2d19ea84419809f05d81aecc907:
+    span:
+      start: 2703
+      end: 3864
+    metadata: {}
+  4b6bb5b6da844c8989ab5eb1947be5d3:
+    span:
+      start: 3866
+      end: 4799
+    metadata: {}
+  3af8b776430143bea22fc3d5968b542c:
+    span:
+      start: 4801
+      end: 5986
+    metadata: {}
+  d8f1a667a07243708ccb1fb46d6e69ef:
+    span:
+      start: 5988
+      end: 7171
+    metadata: {}
+  d7903480d1c7414c8d86b82c16c5515b:
+    span:
+      start: 7173
+      end: 8081
+    metadata: {}
+  b918b075a6e34217afd8210a63a7cd1d:
+    span:
+      start: 8083
+      end: 8704
+    metadata: {}
+  1a0177f120fb407bb0340ea141afa588:
+    span:
+      start: 8706
+      end: 9450
+    metadata: {}
+  b0eb37656d704a1db9b08e70565e2a94:
+    span:
+      start: 9452
+      end: 10163
+    metadata: {}
+  b95108b0f3874e5592397c672e0fa05c:
+    span:
+      start: 10165
+      end: 10259
+    metadata: {}
+  54adcd7913c04c21a5ea9e39e2467fa5:
+    span:
+      start: 10261
+      end: 10622
+    metadata: {}
+  fa2c2286db134494b0c9405a10231906:
+    span:
+      start: 10624
+      end: 10831
+    metadata: {}
+  4e2c1b66f49347088b205de6cea3cd15:
+    span:
+      start: 10833
+      end: 11062
+    metadata: {}
+  e60d5ef4ff954adcbe329a653e66f586:
+    span:
+      start: 11064
+      end: 11126
+    metadata: {}
+  6490e9c706534f0b8929eae57dbd5605:
+    span:
+      start: 11128
+      end: 11475
+    metadata: {}
+  d37bfb64c1a8449a90691583b8d5effa:
+    span:
+      start: 11477
+      end: 11497
+    metadata: {}
